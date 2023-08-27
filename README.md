@@ -13,8 +13,7 @@ Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 
 # Overview
 
-This course is an introduction to the quantitative analysis of spatial data that explores clustering, spatial patterns, and intrinsic relationship between geographic variables. Students will recap and learn GIS,   stiatsics, and Python basics as well as more advanced spatial analysis techniques.
-
+This course is an introduction to the quantitative analysis of spatial data that explores clustering, spatial patterns, and intrinsic relationships between geographic variables. Students will recap and learn GIS, statistics, and Python skills as well as more advanced spatial analysis techniques.
 
 ## Prerequisites
 
@@ -26,7 +25,7 @@ We will be using Canvas/Github sites for hosting course materials. Students are 
 
 ## Textbooks
 
-No requirements on textbooks, but there are a couple of useful references:
+No formal requirements on textbooks, but there are a few of useful references:
 - https://gistbok.ucgis.org (online)
 - https://geographicdata.science/book/intro.html (online)
 - https://us.sagepub.com/en-us/nam/statistical-methods-for-geography/book268777
@@ -42,10 +41,10 @@ Your final grade is based on the following components:
 | **Course component**   | **Points**   |
 | ---------------------- | ------------ |
 | 6 assignments          | 6 x 10  = 60 |
-| Final Project          | 40           |
-|           Code         | 10           |
-|           Presentation | 10           |
-|           Report       | 20           |
+| Final project (individual)          | 40           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code         | 10           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation | 10           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Report       | 20           |
 | Total possible         | **100**      |
 
 
@@ -53,11 +52,17 @@ and this scheme:
 
 | **Course grade** | **Points** | **Course grade** | **Points** |
 | ---------------- | ---------- | ---------------- | ---------- |
-| A+               | 95+        | C+               | 75 - 79    |
+| A+               | >=95       | C+               | 75 - 79    |
 | A                | 90 - 94    | C                | 70 - 74    |
 | B+               | 85 - 89    | D                | 60 - 69    |
 | B                | 80 - 84    | F                | <60        |
 
+### Assignments
+There will be six assignments that will be completed over the duration of this course. Each assignment will be introduced after the lecture is completed. Students will have some time in class to start the assignment and ask any questions, and will be required to work on them after class.
+
+### Final Project
+
+Final projects are individual based. You will be asked to investigate a spatial problem of your choice/interest using appropriate data and methods covered in class. More will be introduced later in the semster.
 
 ## Course Topics and Schedule
 
@@ -69,7 +74,6 @@ This may subject to change but historical versions are archived.
 - Point Pattern Analysis
 - Spatial Autocorrelation
 - Spatial Regression
-- Misc. Advanced Topics
 
 
 ## Student Responsibilities & Expectations
