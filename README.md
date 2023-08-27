@@ -37,6 +37,8 @@ I may also occasionally distribute other reading materials.
 
 ## Grading and Assignments
 
+Your final grade is based on the following components:
+
 | **Course component**   | **Points**   |
 | ---------------------- | ------------ |
 | 6 assignments          | 6 x 10  = 60 |
@@ -47,6 +49,7 @@ I may also occasionally distribute other reading materials.
 | Total possible         | **100**      |
 
 
+and this scheme:
 
 | **Course grade** | **Points** | **Course grade** | **Points** |
 | ---------------- | ---------- | ---------------- | ---------- |
