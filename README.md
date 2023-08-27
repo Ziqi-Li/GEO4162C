@@ -12,6 +12,10 @@ Website: https://sites.google.com/view/ziqi-li/home \
 Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 
 # Overview
+
+This course is an introduction to the quantitative analysis of spatial data that explores clustering, spatial patterns, and intrinsic relationship between geographic variables. Students will recap and learn GIS,   stiatsics, and Python basics as well as more advanced spatial analysis techniques.
+
+
 ## Prerequisites
 
 There are no formal prerequisites for this course. However, students are expected to have basic computer skills and working knowledge of either Windows/Mac in order to complete assignments.
@@ -29,6 +33,28 @@ No requirements on textbooks, but there are a couple of useful references:
 - https://automating-gis-processes.github.io/2016/Lesson1-Intro-Python-GIS.html (online)
 
 I may also occasionally distribute other reading materials.
+
+
+## Grading and Assignments
+
+| **Course component**   | **Points**   |
+| ---------------------- | ------------ |
+| 6 assignments          | 6 x 10  = 60 |
+| Final Project          | 40           |
+|           Code         | 10           |
+|           Presentation | 10           |
+|           Report       | 20           |
+| Total possible         | **100**      |
+
+
+
+| **Course grade** | **Points** | **Course grade** | **Points** |
+| ---------------- | ---------- | ---------------- | ---------- |
+| A+               | 95+        | C+               | 75 - 79    |
+| A                | 90 - 94    | C                | 70 - 74    |
+| B+               | 85 - 89    | D                | 60 - 69    |
+| B                | 80 - 84    | F                | <60        |
+
 
 ## Course Topics and Schedule
 
