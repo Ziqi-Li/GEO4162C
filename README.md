@@ -4,16 +4,14 @@ Class meets: 9:20 - 10:10am M/W/F @ BEL 114
 
 ## About me
 
-Dr. Ziqi Li
-Assistant Professor in Quantitative Geography
-Office: Bellamy 314
-Email: zl23l@fsu.edu
-Website: https://sites.google.com/view/ziqi-li/home
-Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment. 
+Dr. Ziqi Li \
+Assistant Professor in Quantitative Geography \
+Office: Bellamy 314 \
+Email: zl23l@fsu.edu \
+Website: https://sites.google.com/view/ziqi-li/home \
+Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment. \
 
-## Overview
-
-
+# Overview
 ## Prerequisites
 
 There are no formal prerequisites for this course. However, students are expected to have basic computer skills and working knowledge of either Windows/Mac in order to complete assignments.
