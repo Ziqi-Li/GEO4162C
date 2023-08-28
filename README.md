@@ -13,7 +13,14 @@ Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 
 ## Overview
 
-This course is an introduction to the quantitative analysis of spatial data that explores clustering, spatial patterns, and intrinsic relationships between geographic variables. Students will recap and learn GIS, statistics, and Python skills as well as more advanced spatial analysis techniques.
+This course is an introduction to the quantitative analysis of spatial data that explores clustering, spatial patterns, and intrinsic relationships between geographic variables. Students will recap and learn GIS, statistics, and Python skills as well as fundamental spatial analysis techniques.
+
+## Learning Outcomes
+
+- Differentiate between descriptive and inferential statistics
+- Analyze spatial data using Python
+- Measure patterns in real-world spatial data
+- Perform correlation and regression analysis to understand spatial data relationships
 
 ## Prerequisites
 
