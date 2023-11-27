@@ -1,6 +1,6 @@
-# GEO4162C Spatial Data Analysis Fall 2023
+# GEO4162C Spatial Data Analysis Spring 2024
 
-Class meets: 9:20 - 10:10am M/W/F @ BEL 114
+Class meets: 12:00pm - 12:50pm M/W/F @ BEL 117
 
 ## About me
 
@@ -13,7 +13,7 @@ Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 
 ## Overview
 
-This course is an introduction to the quantitative analysis of spatial data that explores clustering, spatial patterns, and intrinsic relationships between geographic variables. Students will recap and learn GIS, statistics, and Python skills as well as fundamental spatial analysis techniques.
+This course is an introduction to the quantitative analysis of spatial data that explores clustering, spatial patterns, and intrinsic relationships between geographic variables. Students will learn GIS, statistics, and Python programming skills as well as fundamental spatial analysis techniques.
 
 ## Learning Outcomes
 
