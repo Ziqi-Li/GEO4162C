@@ -1,5 +1,7 @@
 # GEO4162C Spatial Data Analysis Spring 2024
 
+Florida State Univerity
+
 Class meets: 12:00pm - 12:50pm M/W/F @ BEL 117
 
 ## About me
