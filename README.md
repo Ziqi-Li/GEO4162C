@@ -13,14 +13,15 @@ Office Hours: 2:00PM – 3:00PM, every Wednesday in-person, or by appointment.
 
 ## Overview
 
-This course is an introduction to the quantitative analysis of spatial data that explores clustering, spatial patterns, and intrinsic relationships between geographic variables. Students will learn GIS, statistics, and Python programming skills as well as fundamental spatial analysis techniques.
+This course is an introduction to spatial data science that explores spatial data geomtries, patterns, and statsitcial relationships. Students will learn GIS, statistics, and Python programming skills as well as fundamental spatial analysis techniques.
 
 ## Learning Outcomes
 
+- Analyze spatial data using Python and Notebook
 - Differentiate between descriptive and inferential statistics
-- Analyze spatial data using Python
-- Measure patterns in real-world spatial data
+- Measure patterns in spatial data
 - Perform correlation and regression analysis to understand spatial data relationships
+- Apply spatial data science techniques in real-world spatial data applications
 
 ## Prerequisites
 
@@ -30,12 +31,13 @@ There are no formal prerequisites for this course. However, students are expecte
 
 We will be using Canvas/Github sites for hosting course materials. Students are expected to check sites regularly for announcements, lecture slides, materials, grades, assignments, and other postings.
 
+Students will use [Google Colaboratory](https://research.google.com/colaboratory/) for python coding.
+
 ## Textbooks
 
 No formal requirements on textbooks, but there are a few of useful references:
 - https://gistbok.ucgis.org (online)
 - https://geographicdata.science/book/intro.html (online)
-- https://us.sagepub.com/en-us/nam/statistical-methods-for-geography/book268777
 - https://automating-gis-processes.github.io/2016/Lesson1-Intro-Python-GIS.html (online)
 
 I may also occasionally distribute other reading materials.
@@ -59,10 +61,10 @@ and this scheme:
 
 | **Course grade** | **Points** | **Course grade** | **Points** |
 | ---------------- | ---------- | ---------------- | ---------- |
-| A+               | >=95       | C+               | 75 - 79    |
-| A                | 90 - 94    | C                | 70 - 74    |
-| B+               | 85 - 89    | D                | 60 - 69    |
-| B                | 80 - 84    | F                | <60        |
+| A                | >=95       | C                | 75 - 79    |
+| A-               | 90 - 94    | C-               | 70 - 74    |
+| B                | 85 - 89    | D                | 60 - 69    |
+| B-               | 80 - 84    | F                | <60        |
 
 ### Assignments
 There will be six assignments that will be completed over the duration of this course. Each assignment will be introduced after the lecture is completed. Students will have some time in class to start the assignment and ask any questions, and will be required to work on them after class.
@@ -76,9 +78,8 @@ Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late ass
 
 
 
-## Course Topics and Schedule
+## Course Topics
 
-This may subject to change but historical versions are archived.
 - Geography/GIS Basics
 - Statistics Basics
 - GIS in Python
@@ -86,7 +87,9 @@ This may subject to change but historical versions are archived.
 - Point Pattern Analysis
 - Spatial Autocorrelation
 - Spatial Regression
+- Interactive Visualization
 
+A detailed schedule is available on Canvas.
 
 ## Student Responsibilities & Expectations
 
