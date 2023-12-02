@@ -34,7 +34,7 @@ There are no formal prerequisites for this course. However, students are expecte
 
 We will be using Canvas/Github sites for hosting course materials. Students are expected to check sites regularly for announcements, lecture slides, materials, grades, assignments, and other postings.
 
-Students will use [Google Colaboratory](https://research.google.com/colaboratory/) for python coding.
+Students will use [Google Colaboratory](https://research.google.com/colaboratory/) for python coding. A Google Account is required.
 
 ## Textbooks
 
