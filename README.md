@@ -7,7 +7,8 @@ Class meets: 12:00pm - 12:50pm M/W/F @ BEL 117
 ## About me
 
 Dr. Ziqi Li\
-Assistant Professor in Quantitative Geography \
+Assistant Professor \
+Department of Geography \
 Office: Bellamy 314 \
 Email: ziqi.li@fsu.edu \
 Website: https://sites.google.com/view/ziqi-li/home \
