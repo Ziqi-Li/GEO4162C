@@ -53,10 +53,10 @@ Your final grade is based on the following components:
 | **Course component**   | **Points**   |
 | ---------------------- | ------------ |
 | 6 assignments          | 6 x 10  = 60 |
-| Final project (individual)          | 40           |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code         | 10           |
+| Mid term (take-home exam)          | 15 |
+| Final project (individual)          | 25           |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presentation | 10           |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Report       | 20           |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Report       | 15           |
 | Total possible         | **100**      |
 
 
@@ -72,24 +72,31 @@ and this scheme:
 ### Assignments
 There will be six assignments that will be completed over the duration of this course. Each assignment will be introduced after the lecture is completed. Students will have some time in class to start the assignment and ask any questions, and will be required to work on them after class.
 
+### Midterm
+There will be a midterm test in the format of a take-home exam. You will be given 24 hours to finish a data analysis task and to answer a few questions. This will happen the week before the spring break.
+
+
 ### Final Project
 
 Final projects are individual based. You will be asked to investigate a spatial problem of your choice/interest using appropriate data and methods covered in class. More will be introduced later in the semster.
 
 ### Lateness/make-up policy
-Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons.
+Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. Late panelty is implemented automatically through Canvas's gradebook.
+
+
+Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. Evidence is required.
 
 
 
 ## Course Topics
 
-- Geography/GIS Basics
+- GIS Basics
 - Statistics Basics
 - GIS in Python
 - Intro to Statistical Inference
 - Point Pattern Analysis
 - Spatial Autocorrelation
-- Spatial Regression
+- Regression
 - Interactive Visualization
 
 A detailed schedule is available on Canvas.
