@@ -1,8 +1,8 @@
-# GEO4162C Spatial Data Analysis Spring 2024
+# GEO4162C Spatial Data Analysis Fall 2024
 
 Florida State Univerity
 
-Class meets: 12:00pm - 12:50pm M/W/F @ BEL 117
+Class meets: 9:20am - 10:10am M/W/F @ BEL 114
 
 ## About me
 
@@ -70,11 +70,10 @@ and this scheme:
 | B-               | 80 - 84    | F                | <60        |
 
 ### Assignments
-There will be six assignments that will be completed over the duration of this course. Each assignment will be introduced after the lecture is completed. Students will have some time in class to start the assignment and ask any questions, and will be required to work on them after class.
+There will be six assignments that will be completed over the duration of this course. Each assignment focuses on one topic. You will be using Python to conduct certain analyses following class examples.
 
 ### Midterm
-There will be a midterm test in the format of a take-home exam. You will be given 24 hours to finish a data analysis task and to answer a few questions. This will happen the week before the spring break.
-
+There will be a midterm test in the format of a take-home exam. You will be given 24 hours to finish a set of data analysis tasks and to answer a few questions. 
 
 ### Final Project
 
@@ -84,7 +83,7 @@ Final projects are individual based. You will be asked to investigate a spatial 
 Assignments/project are due at 11:59 pm on the day indicated on Canvas. Late assignments will have a penalty of 20% for each late day. Late panelty is implemented automatically through Canvas's gradebook.
 
 
-Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. Evidence is required.
+Assignments will not be accepted more than 5 days past the due date. Exception to this is that you have legitimate and/or religeous reasons. **Evidence is required**.
 
 
 
